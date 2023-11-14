@@ -14,7 +14,7 @@ print("\nPremier quartile (l) :\n", stats.loc['25%'])
 print("\nTroisième quartile (u) :\n", stats.loc['75%'])
 
 # T1: Visualisation des métriques
-plt.figure(figsize=(10, 6))
+plt.figure(figsize=(10, 7))
 sns.boxplot(data=fichier[['TLOC', ' WMC', ' TASSERT']])
 plt.title('Boîtes à moustaches pour TLOC, WMC et TASSERT')
 plt.show()
