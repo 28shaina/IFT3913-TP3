@@ -1,5 +1,7 @@
 Noms: Shaïna Labatte (20191105) YUE ZHU (20151663)
 
+https://github.com/28shaina/IFT3913-TP3.git
+
 Nous avons 3 fichiers Excel:
 
 T1: dans ce fichier, il y a la boîte à mouche de chaque métrique (graphiques), ainsi que les valeurs
